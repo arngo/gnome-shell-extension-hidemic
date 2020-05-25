@@ -1,0 +1,10 @@
+{
+  "description": "Hide the mic icon from the top panel", 
+  "name": "Hide Mic Icon", 
+  "shell-version": [
+    "3.36"
+  ], 
+  "url": "https://github.com/arngo/gnome-shell-extension-hidemic", 
+  "uuid": "hidemic@arngo.github.com", 
+  "version": 1
+}
