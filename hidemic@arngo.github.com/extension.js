@@ -10,5 +10,6 @@ function enable() {
 
 function disable() {
     Main.panel.statusArea.quickSettings._volume.add_child(inputIndicator);
+    Main.panel.statusArea.quickSettings._volume._syncIndicatorsVisible();
 }
 
